@@ -22,7 +22,7 @@ The dataset, ObesityDataSet.csv, contains various features related to individual
 ## Methods
 
 ### 1. Data Preprocessing
-Data is cleaned and prepared for analysis. This includes handling missing values, encoding categorical features, and normalization where necessary.
+The Dataset comes from [Kaggle's Obesity Clustering Dataset](https://www.kaggle.com/code/earije/k-means-clustering-with-obesity-dataset). Data is cleaned and prepared for analysis. This includes handling missing values, encoding categorical features, and normalization where necessary.
 
 ### 2. K-Means Clustering
 K-Means is used to partition the dataset into k clusters by minimizing the within-cluster sum of squares. It assumes spherical clusters and works well for compact groups.
