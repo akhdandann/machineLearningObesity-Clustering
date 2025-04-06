@@ -43,6 +43,12 @@ Entropy is used as the primary evaluation metric to determine how pure the clust
 
 The lower entropy value of K-Means suggests that it forms more coherent clusters compared to AHC.
 
+## Visualization
+
+Below is an example visualization showing the trend of bike rentals over time:
+
+<img src="obesityClusterVisualization.png" alt="Clustering Visualization" width="1600"/>
+
 ## Results and Conclusion
 
 - *K-Means* created more compact and meaningful clusters, better capturing the patterns in the data.
